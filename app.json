@@ -1,4 +1,7 @@
 {
   "name": "DocApp01",
-  "displayName": "DocApp01"
+  "displayName": "DocApp01",
+  "plugins": [
+    "expo-font"
+  ]
 }
